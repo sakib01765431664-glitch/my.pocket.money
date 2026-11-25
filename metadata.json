@@ -1,0 +1,6 @@
+{
+  "name": "My Pocket Expense",
+  "description": "Personal Pocket Money & Daily Expense Tracker in BDT with budgets, reports, calendar view, and local device backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
